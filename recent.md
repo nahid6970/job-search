@@ -15,7 +15,7 @@ BBA and MBA in Finance; SSC and HSC in Commerce. Looking for fresher or no-exper
 
 ## 2. Presentation Rule (Permanent)
 When showing job options:
-1. Use a clean table with ✅ / ❌ / ⚠️ in an "Eligible?" column. NO links in the table.
+1. Use a clean table with ✅ / ❌ / ⚠️ in an "Eligible?" column. Put the listing details link at the end of the first-column listing name; keep application links in the separate section after the table for ✅ and ⚠️ jobs.
 2. Before giving an eligibility recommendation, clearly flag every strict or disqualifying rule from the circular, including permanent-district/residency limits, age cutoff date, degree/CGPA/division requirements, experience, licenses, typing/shorthand speeds, required skills, and mandatory documents. Say plainly if an unknown profile detail is needed to determine eligibility. Do not recommend applying until all strict requirements are checked; if uncertain, mark ⚠️ and name the exact condition to verify.
 3. Include a "Location / commute" column. Check the actual duty station (not just the employer's headquarters) and estimate travel time from both Dhaka and Narayanganj.
 4. Treat jobs in Dhaka or Narayanganj, and commutes of about 30 minutes to 1 hour from either city, as within the preferred area. If a job is more than 1 hour from both, show a clear **⚠️ FAR FROM DHAKA/NARAYANGANJ** warning and state the estimated commute. If location or travel time cannot be confirmed, mark it **⚠️ Verify location** instead of guessing.
@@ -98,3 +98,4 @@ Example links section (after table):
 | Check Dhaka University post details (jobs.du.ac.bd) | Sept 13–15, Nov 2 | ⚠️ Verify post names |
 | Apply Midland Bank PLC (Probationary Officer / TAO) via bdjobs.com/mdb | Oct 20, 2026 | 🔴 URGENT — deadline tomorrow |
 | Apply IAMPLC Senior Officer (Grade-9) + Officer (Grade-10) — portal opens Oct 1 | Oct 29, 2026 | 🟡 Apply from Oct 1 at icb.org.bd/iamcl/career/cindex.php |
+

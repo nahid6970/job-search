@@ -2,12 +2,10 @@
 
 **Purpose:** Keep a record of job listings already reviewed so a later check can identify genuinely new vacancies, including new posts from companies seen before.
 
-**Last updated:** 10 November 2026  
+**Last updated:** 18 November 2026  
 **Tracked source:** [BD Govt Job — Bank Jobs](https://bdgovtjob.net/category/bank-jobs/)
 
-**Baseline checkpoint:** Rechecked on **10 Nov 2026**. The newest bank-category cards remain the same notices published 1–4 Nov, all already logged in this tracker (including the previously recorded NCC, Mercantile, Al-Arafah, Bengal Commercial, Shimanto, ONE Bank, EBL, Nagad, MTB, and Modhumoti notices). No new bank-category listing appeared since the 8 Nov checkpoint. This scan checked the visible newest category feed; older entries were not re-audited. EBL Cards Sales, Nagad, and Sonali deadlines have passed; NCC and Shimanto deadlines are 10 Nov.
-
-## Instructions for future checks
+**Last checked:** 18 Nov 2026.\r\n**Latest checkpoint:** Bank page 1 from Bank Asia (17 Nov) through Shimanto (11 Nov), page 2 through NRB Bank (17 Oct, previously recorded overlap). Exact new and tracked notices are recorded below.\r\n\r\n## Instructions for future checks
 
 When Nahid asks whether there are new listings on a site/category:
 
@@ -16,7 +14,7 @@ When Nahid asks whether there are new listings on a site/category:
 3. Compare each listing using **employer + exact post/title + source/job ID or circular date + deadline**. Employer name alone is not a unique identifier: the same employer can publish a genuinely new post or circular. A changed deadline, repost, or updated page for the same post should be recorded as an update to the existing entry, not a new vacancy.
 4. Report **every genuinely new listing as NEW, whether Nahid is eligible or not**. Never omit or hide a listing because it is unsuitable. Show each new listing in the results table with ✅ / ❌ / ⚠️ and the concrete eligibility reason or unknown condition. Mention previously seen listings separately as **ALREADY TRACKED** (or **UPDATED** if the same post changed). If a new post is from an employer already seen, explicitly say **new post from a previously seen employer**.
 5. For every new listing, check the full circular for strict eligibility conditions: degree/subject, CGPA/division, age and its cutoff date, experience, licensing, skills, residency/district, required documents, number of posts, application dates, and how to apply. Mark unknown conditions clearly; do not assume eligibility.
-6. Match every new listing against Nahid's profile and show all of them in a compact table with ✅ / ❌ / ⚠️ eligibility, strict conditions, deadline, and location/commute. Include ❌ roles too and state why he cannot apply. Apply Nahid's Dhaka/Narayanganj commute warning rule from `recent.md`. Put the listing details link at the end of each first-column listing name. Put application links separately after the table, only for ✅ and ⚠️ roles.
+6. Match every new listing against Nahid's profile and show all of them in a compact table with ✅ / ❌ / ⚠️ eligibility, strict conditions, deadline, and location/commute. Include ❌ roles too and state why he cannot apply. Apply Nahid's Dhaka/Narayanganj commute warning rule from `recent.md`. Keep details and application links out of results tables; list them after the table only for ✅ and ⚠️ roles.
 7. After presenting the new jobs, add each new listing to the table below and move the baseline checkpoint to the oldest already-known listing reached during this scan (or record the exact scan date and last-seen post if the source has no stable order). Keep expired entries: they help distinguish old notices from new ones. Update status/deadline when a known listing changes rather than silently replacing its history.
 
 ## Previously reviewed on the Bank Jobs page
@@ -61,4 +59,37 @@ Add new records at the top of this table after each requested scan. Include one 
 ## Scan checkpoint — 14 November 2026
 
 Checked the bank category newest-first. The visible newest notices are Al-Arafah Islami Bank (4 Nov; deadlines 14/16 Nov), Mercantile Bank (4 Nov; 12 Nov), NCC Bank (4 Nov; 15 Nov), Bengal Commercial Bank (3 Nov; 15 Nov), Shimanto Bank (3 Nov; 10 Nov), ONE Bank (2 Nov; 19 Nov), Eastern Bank (2 Nov; 7 Nov), Nagad (2 Nov; 14 Nov), MTB (1 Nov; 18 Nov/2 Dec), and Modhumoti Bank (1 Nov; 17/19 Nov). These match notices already recorded in this tracker or recent.md by employer + exact post/circular date + deadline; no genuinely new notice found. The scan reached the recorded 1–4 Nov cluster, but the category page has older pagination, not re-audited. Source: https://bdgovtjob.net/category/bank-jobs/ .
+
+
+## New bank-feed notices — scan of 18 November 2026
+
+**Range checked:** Bank Jobs page newest-first from Bank Asia (17 Nov) through Shimanto Bank (11 Nov), then page 2 through NRB Bank (17 Oct), the older recorded overlap. The November notices below were compared by exact role/source date/deadline with earlier Oct/early-Nov tracker rows. Employer repeats are separate notices where their posts or circular dates differ.
+
+| First seen | Employer / exact post(s) | Notice date; deadline | Nahid fit and strict condition(s) | Location / commute | Status |
+|---|---|---|---|---|---|
+| 2026-11-18 | Bank Asia — 10 category postings in 3 circular groups, including Head of Corporate Legal Affairs; Law Officer (Documentation/Litigation); MIS Regulatory Reporting Officer; zonal litigation; Small Business BDM/Relationship Officer; CMSME Territory Manager; Unit Head Retail Sales | Notices dated 8, 12, 17 Nov; deadlines 18, 22, 26 Nov | ❌ Legal roles require LLB/LLM and legal experience; remaining MIS/business leadership or sales roles require specialized skills and/or relevant experience. No fresher Finance fit established. | Primarily Dhaka; zonal roles include Cumilla/Chandpur/Brahmanbaria and outer Dhaka/Narayanganj; exact post station varies. | New notices from previously untracked employer in this tracker. |
+| 2026-11-18 | Al-Arafah Islami Bank — Relationship Manager, Corporate Banking; MIS Reporting Analyst (FAD); Unit Head, Central MIS & Reporting; Unit Head, Retail Home & Personal Investment | Source 16 Nov; deadlines 27 and 30 Nov | ❌ Management/analyst banking roles require relevant experience; several are AVP/VP/senior-level. Finance degree alone does not meet experience conditions. | Dhaka or nationwide by post; verify assigned duty station and commute. | New set of posts from previously seen employer; distinct from 4 Nov analyst/IRM notices (14/16 Nov deadlines). |
+| 2026-11-18 | Prime Bank — Manager/Senior Manager, CIB Reporting & Operations Unit, Credit Administration | Source 12 Nov; deadline 26 Nov | ❌ Senior management position and relevant credit administration experience required; not a fresher opening. | Dhaka; Narayanganj commute: verify route/time. | New listing. |
+| 2026-11-18 | Community Bank — Head of FI & Correspondent Banking; Corporate Agent–Student Sourcing; Management Trainee | Sources 5 and 9 Nov; deadlines 28 Nov, 30 Nov, 5 Dec | ⚠️ Management Trainee accepts fresh graduates and age 21–32 on 30 Nov; Nahid is 27, but exact minimum CGPA/high-result threshold must be checked against BBA/MBA/SSC/HSC results. Other roles require 1 year student-sourcing experience or 12 years FI/correspondent banking experience (❌). | MT may post anywhere in Bangladesh; location/commute must be verified. | New circular posts; strongest possible fit to check. |
+| 2026-11-18 | BRAC Bank — Officer, Intelligence & Data Analytics; Branch Manager, Distribution Network; Associate Manager/Manager, Account Services; Officer/Associate Manager, Litigation Management | Notice dates 14 and 17 Nov; deadlines 17, 18, 23, 30 Nov | ⚠️ Data Analytics accepts degrees in CS, Statistics, Data Science, Mathematics, Economics or Business Administration, but Nahid’s Finance degree equivalence and SQL/Python/Power BI/advanced Excel skills need verification. Other jobs require branch leadership, banking operations experience, or law degree/legal experience (❌). | Dhaka or nationwide by post; confirm actual assignment and commute. | New posts from a previously seen employer; distinct from older tracker roles. |
+| 2026-11-18 | ONE Bank — 8 post categories across 2 new circular groups, including Centralized Service Delivery (3), Bank Guarantee Unit (2), Export Documents Checker (1), plus 5 other roles | Feed/source dates 3–9 Nov; deadlines 19 and 26 Nov | ❌ Required experience includes 5 years in centralized service/branch operations and 3 years in bank guarantees or export-document checking; remaining listed roles are experienced specialist posts. | Dhaka or nationwide by post; verify exact posting/commute. | New circular group from a previously tracked employer; 2 Nov One Bank posts remain separately tracked. |
+| 2026-11-18 | NCC Bank — Junior Officer–Senior Officer, NCC Islamic Banking | Notice 17 Nov; deadline 18 Nov | ❌ Finance/BBA/MBA degree meets the subject field, but relevant Islamic/Shariah banking branch experience is required; profile lists fresher. | Anywhere in Bangladesh; exact branch and commute unconfirmed. | New post from previously tracked employer; distinct from 4 Nov specialist notices. |
+| 2026-11-18 | Bengal Commercial Bank — Treasury Division (SO–SEO); Officer–SEO, Finance & Accounts; Chief Risk Officer | Feed update 17 Nov; treasury/F&A source 13 Nov; deadlines 21 and 30 Nov | ❌ Finance degree matches F&A subject, but it requires 3 years in bank/financial-institution F&A. Treasury requires 3 years in bank treasury; CRO requires senior risk-management experience. | Bank head office/branch network; precise post location and commute need confirmation. | New roles from previously tracked employer; separate from 3–4 Nov posts. |
+| 2026-11-18 | Nagad — Assistant Lead Engineer, Database Management (1) | Notice 12 Nov; deadline 21 Nov | ❌ Requires CSE/IT/related bachelor’s plus at least 2 years’ enterprise database administration; unrelated to Finance/fresher profile. | Banani, Dhaka head office; Dhaka; Narayanganj commute: verify route/time. | New, separate from 29 Oct Service Delivery and 3 Nov Core Data Engineering roles. |
+| 2026-11-18 | Shimanto Bank — Associate Manager/Manager, Credit Administration (PO–SPO) | Notice 9 Nov; deadline 17 Nov | ❌ Requires 5–7 years in a commercial bank Credit Administration Department; age 34–40. Nahid is 27 and a fresher. | Dhaka; Narayanganj commute: verify route/time. | New post from a previously seen employer; expired by scan date. Distinct from tracked Head of Islamic Banking notice (3 Nov; deadline 10 Nov). |
+
+### Details / application links for ✅ and ⚠️
+
+- **Community Bank Management Trainee** — [details and Bdjobs application link](https://bdgovtjob.net/community-bank-bangladesh-limited-job-circular/); verify the minimum CGPA/high-result threshold before applying.
+- **BRAC Bank Officer, Intelligence & Data Analytics** — [details and individual notices](https://bdgovtjob.net/brac-bank-limited-job-circular/); confirm Finance-degree equivalence and required technical skills.
+
+
+
+
+
+
+**Checkpoint:** 18 Nov 2026; page 1 newest Bank Asia (17 Nov) through Shimanto Bank (11 Nov); page 2 continued through NRB Bank (17 Oct, recorded older overlap). Shimanto Credit Administration (notice 9 Nov) was new; Head of Islamic Banking (notice 3 Nov) was already tracked. No page beyond page 2 was needed for the recorded overlap.
+
+
+
 
